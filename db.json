@@ -1,0 +1,138 @@
+{
+    "teams":[
+        {
+           "id":"fecd44c4-a8a4-46d9-a60c-485ae3f37d71",
+           "name":"Alpha Team",
+            "tokens":[
+                {
+                    "token":"b68ad061-52d3-4bd7-b303-f47991406585",
+                    "name":"apitesting",
+                    "createdOn":1561544880000
+                }
+            ],
+            "members":[
+                {
+                    "id":"4e1d43b5-9110-4d73-adb8-f44f35e2799a",
+                    "name":"John Cove",
+                    "email":"j.cove@arc.com",
+                    "role":"Viewer"
+                },
+                {
+                    "id":"88007404-9d42-4460-892e-7ef84142c6f1",
+                    "name":"Alice Dearman",
+                    "email":"a.dearman@arc.com",
+                    "role":"Collaborator"
+                },
+                {
+                    "id":"fae8de87-1666-4d8c-8d27-99c40192e5a5",
+                    "name":"Marco Sciortino",
+                    "email":"sciortino.mrc@gmail.com",
+                    "role":"Administrator"
+                },
+                {
+                    "id":"98d7fde1-72ab-4f9c-9761-f0ce70e754b7",
+                    "name":"Luke Johnson",
+                    "email":"l.johnson@arc.com",
+                    "role":"Collaborator"
+                },
+                {
+                    "id":"f27e6fdd-4915-4284-9322-64cb406bbf81",
+                    "name":"Joanh Lunjberg",
+                    "email":"j.lunjberg@arc.com",
+                    "role":"Collaborator"
+                },
+                {
+                    "id":"473059ab-ca27-4ac5-b5ed-00e053cdc236",
+                    "name":"Raj Patel",
+                    "email":"r.patel@arc.com",
+                    "role":"Viewer"
+                },
+                {
+                    "id":"68d8c4af-8985-4d13-958f-1e832e111f9b",
+                    "name":"Andrei Neagoie",
+                    "email":"a.neagoie@arc.com",
+                    "role":"Collaborator"
+                }
+            ]
+        },
+        {
+            "id":"20323b8c-d42d-41ca-850d-1e464272acb0",
+            "name":"Beta Team",
+             "tokens":[
+                 {
+                     "token":"3967829a-7242-4984-8939-a046de53c805",
+                     "name":"jenkins",
+                     "createdOn":1560844880000
+                 }
+             ],
+             "members":[
+                 {
+                     "id":"1f2b5897-462c-4da6-af91-f06924cb4cae",
+                     "name":"Ted Mosby",
+                     "email":"t.mosby@arc.com",
+                     "role":"Viewer"
+                 },
+                 {
+                     "id":"e0a33fd7-237b-45e6-a383-02636adff93b",
+                     "name":"Barney Stinson",
+                     "email":"b.stinson@arc.com",
+                     "role":"Collaborator"
+                 },
+                 {
+                     "id":"e849d85f-1dfa-4bac-bf05-63233b71acfd",
+                     "name":"Marshall Eriksen",
+                     "email":"m.eriksen@arc.com",
+                     "role":"Administrator"
+                 },
+                 {
+                     "id":"5d80384a-ae05-4dfa-9b30-c1f14a7e5e6c",
+                     "name":"Lily Auldrin",
+                     "email":"l.auldrin@arc.com",
+                     "role":"Collaborator"
+                 },
+                 {
+                     "id":"78d8a542-d1e8-4a73-a956-a8ec9b2d9dfb",
+                     "name":"Robin Scherbawsky",
+                     "email":"r.scherbawsky@arc.com",
+                     "role":"Collaborator"
+                 }
+             ]
+         },
+         {
+            "id":"2c293f09-6405-4e9f-9c7c-40ba3db1f284",
+            "name":"Delta Team",
+             "tokens":[
+                 {
+                     "token":"5845041d-be91-4f5f-8dc8-e1667635e9f8",
+                     "name":"tests",
+                     "createdOn":1560844880000
+                 },
+                 {
+                    "token":"590ec9f6-5ec5-4953-a32e-b540a49a8241",
+                    "name":"tests2",
+                    "createdOn":1560844880000
+                }
+             ],
+             "members":[
+                 {
+                     "id":"f8c6b27d-b8eb-4923-bd5e-f0f52dd987b9",
+                     "name":"Rob Ditcot",
+                     "email":"r.ditcot@arc.com",
+                     "role":"Viewer"
+                 },
+                 {
+                     "id":"a732d896-80b6-4776-aa0a-baf6a248e80b",
+                     "name":"Albert Foster",
+                     "email":"a.foster@arc.com",
+                     "role":"Collaborator"
+                 },
+                 {
+                     "id":"63f7b0c7-b70d-48f7-ade1-5c9b682c07ce",
+                     "name":"Ann Corn",
+                     "email":"a.corn@arc.com",
+                     "role":"Administrator"
+                 }
+             ]
+         }
+    ]
+}
